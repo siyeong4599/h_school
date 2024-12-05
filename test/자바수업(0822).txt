@@ -1,0 +1,9 @@
+1. main num = 0, sub num = undefiend
+2. say Hello
+3. error
+4. if (input_num %2==0) { console.log("짝수");}
+else if (input_num %2!=0) { console.log("홀수");}
+else console.log("틀린기호");
+5. for(let i=0;i>8;i++){for(let j=0;j>9;j++){ gugu[i][j] = (i+2)*(j+1);}}
+6. sort(data_int){선택정렬(다른 정렬로도 됨, 오름차순으로 정렬하기)}
+7. 주민번호 - test메모장에 있음
